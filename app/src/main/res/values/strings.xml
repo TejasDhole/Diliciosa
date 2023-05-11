@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Deliciosa</string>
+    <string name="login_page">Email</string>
+    <string name="pass">Password</string>
+    <string name="ForgetPass">Forget_password</string>
+
+</resources>
