@@ -29,7 +29,7 @@ lateinit var txtRegisterYourself : TextView
         txtRegisterYourself = findViewById(R.id.txtRegisterYourself)
 
         btnLogin.setOnClickListener{
-            startActivity(Intent(this@LoginActivity,MainActivity::class.java))
+            startActivity(Intent(this@LoginActivity,DashboardActivity::class.java))
         }
 
         txtRegisterYourself.setOnClickListener {
